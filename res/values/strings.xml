@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, MyAppDemoActivity!</string>
+    <string name="app_name">MyAppDemo</string>    
+    
+    <string name="activity_hello_world">App/Activity/<b>Hello <i>World</i></b></string>
+    <color name="myColor">#3399CC</color>
+    <string name="celsius">to Celsius</string>
+    <string name="fahrenheit">to Fahrenheit</string>
+    <string name="calc">Calculate</string>
+    
+    <string name="activity_convert">App/Activity/Convert Tempature</string>
+    <string name="activity_classloader">App/Activity/ClassLoaderTest</string>
+    <string name="activity_overview">App/Activity/OverView</string>
+    <string name="activity_fragmentTest">App/Activity/FragmentTest</string>
+    
+    <string name="activity_simplemathservice">App/Service/Remote ISimpleMathService</string>
+    
+    <string name="threedfont">Es1.0/3D Font Display</string>
+    <string name="hello_triangle">Es2.0/HelloTriangle</string>
+    <string name="lesson1">Es2.0/Lesson1 for ES 2.0 Programming</string>
+    <string name="lesson2">Es2.0/Lesson2 for ES 2.0 Programming</string>
+    <string name="lesson3">Es2.0/Lesson3 for ES 2.0 Programming</string>
+    <string name="lesson4">Es2.0/Lesson4 for ES 2.0 Programming</string>
+    <string name="lesson5">Es2.0/Lesson5 for ES 2.0 Programming</string>
+    <string name="lesson6">Es2.0/Lesson6 for ES 2.0 Programming</string>
+    <string name="lesson7">Es2.0/Lesson7 for ES 2.0 Programming</string>
+    
+    <string name="test1">JNI/Test1 for loading texture</string>
+    
+   <string name="cardinal_north">N</string>
+   <string name="cardinal_east">E</string>
+   <string name="cardinal_south">S</string>
+   <string name="cardinal_west">W</string>
+   <string name="compass_view">View/CompassView</string>
+   
+   <string name="my_surfaceview">View/MySurfaceView</string>
+   
+   
+       <string name="lesson_seven">Lesson Seven: An Intro to VBOs</string>  
+    <string name="lesson_seven_subtitle">This lesson looks at vertex buffer objects (VBOs).</string>
+   	<string name="lesson_seven_increase_cube_count">Increase cube count</string>
+   	<string name="lesson_seven_decrease_cube_count">Decrease cube count</string>
+   	<string name="lesson_seven_using_VBOs">Using VBOs</string>
+   	<string name="lesson_seven_not_using_VBOs">Not using VBOs</string>
+   	<string name="lesson_seven_using_stride">Using stride</string>
+   	<string name="lesson_seven_not_using_stride">Not using stride</string>
+   	<string name="lesson_eight">Lesson Eight: An Intro to IBOs</string>  
+    <string name="lesson_eight_subtitle">This lesson looks at index buffer objects (IBOs).</string>
+   	<string name="lesson_eight_error_could_not_create_vbo">Could not create vertex buffer object: %s</string>
+    <string name="lesson_eight_error_unknown">Unknown error: %s</string>
+    
+    <string name = "messenge_test">App/cross thread message handler</string>
+    <string name = "messenge_button_text">Get Handler Message</string>
+
+</resources>
